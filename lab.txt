@@ -3,9 +3,13 @@ Name: Sai Chandra(sjc65)
 Major: Information Technology
 
 main
+Lucas Scalora
+Major: Applied Mathematics
+
+main
 Uladzislau Lenko - Information Technology
 
+main
 Name: Lucas Scalora
 Major: Applied Mathematics
 Hobbies: Sports, Rubiks Cube Solving, Chess
-main
