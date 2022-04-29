@@ -1,3 +1,5 @@
 Hello World
 Name: Sai Chandra(sjc65)
 Major: Information Technology
+Lucas Scalora
+Major: Applied Mathematics
